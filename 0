@@ -1,0 +1,11 @@
+public class HelloWorld  {
+   public static void main(String[] args) {
+       System.out.println("Hello, World!);
+       int number = 10;
+       double number2 = 20.5;
+       byte number3 = 30;
+       long number4 = 40L;
+       float number5 = 50.5f;
+       boolean isTrue = true;
+       System.out.println("Here are our statments printed: " + number + ", " + number2 + ", " + number3 + ", " + number4 + ", " + number5 + ", " +isTrue)
+
